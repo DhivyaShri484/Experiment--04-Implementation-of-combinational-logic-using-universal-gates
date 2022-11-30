@@ -30,8 +30,8 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 ## Procedure
 ## Program:
 Program to implement the given logic function using NAND and NOR gates and to verify its operations in quartus using Verilog programming.
-### Developed by:PALAMAKULA DEEPIKA
-### RegisterNumber:21221240035  
+### Developed by:DHIVYA SHRI
+### RegisterNumber:2122123009 
 ~~~~
 USING NAND
 module comblogic(a,b,c,d,f);
